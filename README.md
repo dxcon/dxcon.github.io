@@ -1,2 +1,2 @@
-# dxcon.github.io
+# dxcon
 # dxcon.github.io
